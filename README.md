@@ -1,7 +1,7 @@
 # Ettore Mancini — sito
 
 Sito statico di **Ettore Mancini, maestro di batteria**. Un solo file HTML con CSS e
-JavaScript incorporati, più la cartella delle immagini. Nessuna dipendenza, nessuna
+JavaScript incorporati, con le immagini accanto. Nessuna dipendenza, nessuna
 compilazione: si apre nel browser così com'è e si pubblica su Vercel senza configurare niente.
 
 ## Struttura
@@ -9,10 +9,10 @@ compilazione: si apre nel browser così com'è e si pubblica su Vercel senza con
 | Percorso | Cosa |
 |---|---|
 | `index.html` | Tutto il sito: struttura, stili, metronomo |
-| `img/logo-ettore-mancini.png` | Wordmark con le bacchette, sfondo trasparente |
-| `img/hero-vert.jpg` | Foto verticale in apertura |
-| `img/ritratto.jpg` | Ritratto della sezione "Il maestro" |
-| `img/sala.jpg` `img/kit.jpg` `img/lezione.jpg` `img/gruppo.jpg` `img/masterclass.jpg` `img/hero.jpg` | Galleria "Dove si lavora" |
+| `logo-ettore-mancini.png` | Wordmark con le bacchette, sfondo trasparente |
+| `hero-vert.jpg` | Foto verticale in apertura |
+| `ritratto.jpg` | Ritratto della sezione "Il maestro" |
+| `sala.jpg` `kit.jpg` `lezione.jpg` `gruppo.jpg` `masterclass.jpg` `hero.jpg` | Galleria "Dove si lavora" |
 
 ## Da completare
 
